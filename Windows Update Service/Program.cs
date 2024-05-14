@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Windows_Update_Service
+namespace w10us
 {
     static class Program
     {

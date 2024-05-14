@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Windows_Update_Service
+namespace w10us
 {
    public class keyword
     {

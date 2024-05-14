@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Windows_Update_Service.Properties {
+namespace w10us.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

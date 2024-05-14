@@ -1,10 +1,10 @@
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\Win 10 Updates.exe.config
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\Win 10 Updates.exe
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\Win 10 Updates.pdb
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.csprojAssemblyReference.cache
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Windows_Update_Service.Form1.resources
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Windows_Update_Service.Properties.Resources.resources
 D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.csproj.GenerateResource.cache
 D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.csproj.CoreCompileInputs.cache
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.exe
-D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.pdb
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\w10us.Form1.resources
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\w10us.Properties.Resources.resources
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\w10us.exe.config
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\w10us.exe
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\bin\Debug\w10us.pdb
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\w10us.exe
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\w10us.pdb
+D:\My Visual Studio Projects\Windows Update Service\Windows Update Service\obj\Debug\Win 10 Updates.csproj.AssemblyReference.cache
